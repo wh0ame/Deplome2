@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.a067c707.css",
+    "main.js": "/my-app/static/js/main.2694542a.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/cta-bg.jpg": "/my-app/static/media/cta-bg.4436f7497c76938ed2f4.jpg",
+    "static/media/header-bg.jpg": "/my-app/static/media/header-bg.fb8b593c92b45d671619.jpg",
+    "static/media/logo.svg": "/my-app/static/media/logo.1413719fcd615f2709322518ca296671.svg",
+    "static/media/phone.svg": "/my-app/static/media/phone.3357c5992e564cc20d54.svg",
+    "static/media/map.svg": "/my-app/static/media/map.608609752f66f94eb61d.svg",
+    "static/media/mouse.svg": "/my-app/static/media/mouse.0d3bbd8cac7cf126ed75671a35a63274.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/cross.svg": "/my-app/static/media/cross.9fe1305fe29c6d41e7dc.svg",
+    "main.a067c707.css.map": "/my-app/static/css/main.a067c707.css.map",
+    "main.2694542a.js.map": "/my-app/static/js/main.2694542a.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a067c707.css",
+    "static/js/main.2694542a.js"
+  ]
+}
